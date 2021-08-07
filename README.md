@@ -1,7 +1,7 @@
 
 # Character Counter
 
-*_Character Counter_* project is done using HTML5, CSS#, Bootstrap4, JavaScript.
+*_Character Counter_* project is done using HTML5, CSS3, Bootstrap4, JavaScript.
 
 ## Deployment
 
