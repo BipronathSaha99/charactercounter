@@ -1,5 +1,5 @@
 
-#Character Counter
+# Character Counter
 
 *_Character Counter_* project is done using HTML5, CSS#, Bootstrap4, JavaScript.
 
@@ -20,7 +20,7 @@ This project is completely mobile friendly .
 
 ### LICENSE
 
-[MIT]()
+[MIT](https://github.com/BipronathSaha99/charactercounter/blob/main/LICENSE)
   
 ## Authors
 
